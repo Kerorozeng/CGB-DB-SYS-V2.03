@@ -1,4 +1,4 @@
 package com.db.sys.controller;
 
-public class Test {
+public class Test001 {
 }
